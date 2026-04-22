@@ -1,6 +1,7 @@
-Farkle-Probability-Project
+# Farkle-Probability-Project
 Calculating the probability of certain farkle roles using simulations. Coded in R Studio using shiny package.
 
+# Background
 Oh man.
 This was pretty interesting because it was my first time using conditional panels.
 I think it gives a little structure to the shiny app and keeps it from looking cluttered.
